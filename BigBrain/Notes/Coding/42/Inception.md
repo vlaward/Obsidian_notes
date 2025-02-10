@@ -10,3 +10,5 @@ Inception est un projet du tronc commun de l'[[ecole 42]], il demande de setup 3
 Ici, Wordpress seras dependant de MariaDB car ca seras sa data base. NGINX seras dependant de Wordpress, toutes ces dependances suront definis dans un "Docket-Network".
 
 Le projet doit se lancer avec un Docker-compose, si possible avec un makefile pour simplifier le lancement des nombreuses commandes.
+
+Cette machine virtuelle doit etre setup sur la old latest stable de [[Debian]] ou [[Alpine]].
