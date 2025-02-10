@@ -1,9 +1,10 @@
+Go back : [[Web]]
 
 tags : #coding #dockers #web 
 
 liens utils :  [[DockerUtils | Docker Utils]] [Docker Doc](https://docs.docker.com/)
 
-Docker est un programme qui permet de lancer des daemon, des taches dans un environement independant, comme une sorte de [[vm|machine virtuelle]] beaucoup plus legere, avec seulement lancer les besoins de la tache en question.
+Docker est un programme qui permet de lancer des daemon, des taches dans un environement independant, comme une sorte de [[Machine Virtuelle|machine virtuelle]] beaucoup plus legere, avec seulement lancer les besoins de la tache en question.
 
 Docker est souvent utiliser pour lancer de peittes taches, souvent ecouter sur un socket. Cela peu servire notemment a pourvoir lancer plusieurs sites sur le meme serveur, chaques dockers ecoutant sur un socket different.
 

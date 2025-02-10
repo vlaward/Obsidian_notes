@@ -24,34 +24,33 @@
             }
           },
           {
-            "id": "3b9c25388ac468a6",
+            "id": "3308bbc71768a519",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LoadBalancer.md",
+                "file": "Notes/Coding/NGINX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LoadBalancer"
-            },
-            "group": "642e70c635a95538"
+              "title": "NGINX"
+            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "9dd6f7fb8d3960b5",
+        "id": "0daaded26be1a858",
         "type": "tabs",
         "children": [
           {
-            "id": "f14ac7bce0b0600f",
+            "id": "46daaa56b2d0852e",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/LoadBalancer.md",
+                "file": "Notes/Coding/NGINX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -75,13 +74,12 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of LoadBalancer"
-            },
-            "group": "642e70c635a95538"
+              "title": "Graph of NGINX"
+            }
           }
         ]
       }
@@ -115,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#coding",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,12 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Coding/NGINX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of NGINX"
             }
           },
           {
@@ -242,37 +241,43 @@
   },
   "active": "5c27c76052d1ba6a",
   "lastOpenFiles": [
-    "Notes/NGINX.md",
-    "Notes/LoadBalancer.md",
-    "Notes/ReverseProxy.md",
-    "Notes/WebServer.md",
-    "Notes/Inception.md",
-    "Notes/Docker.md",
+    "Untitled.canvas",
+    "Notes/Coding/NGINX.md",
+    "Notes/Coding/42/Inception.md",
+    "Web.md",
+    "Coding.md",
+    "Notes/Coding/Machine Virtuelle.md",
+    "Notes/Coding/Docker.md",
+    "Notes/Coding/WordPress.md",
+    "Notes/Coding/MariaDB.md",
+    "Notes/Coding/DockerUtils.md",
+    "Notes/Coding/DataBase.md",
     "Notes/Obsidian_notes.md",
+    "Definitions/Code/Web/LoadBalancer.md",
+    "Definitions/Code/Web/WebServer.md",
+    "Notes/Coding/42",
+    "Notes/Coding",
+    "Definitions/Code/Web/TLS_SSL_Termination.md",
+    "Definitions/Code/Web",
+    "Definitions/Code",
+    "Definitions/Code/Web/HTTPCache.md",
+    "Definitions/Code/Web/MailProxy.md",
+    "Definitions/Code/Web/ReverseProxy.md",
+    "Definitions",
+    "Untitled.md",
     "Notes/web.md",
-    "Notes/DockerUtils.md",
-    "MariaDB.md",
-    "Notes/42_notes.md",
+    "Notes/Coding/42/42_notes.md",
     "create a link.md",
     "Welcome.md",
-    "Untitled",
     "Untitled 1.md",
     "Clean",
     "Notes",
     "Coding/Language/C/Main Page.md",
     "2025-02-10.md",
-    "Untitled.canvas",
     "canvo.canvas",
-    "this is a test.md",
     "Coding/Language/C++",
     "Coding/Language/C",
     "Coding/Language",
-    "Science",
-    "SVT",
-    "Social",
-    "Games",
-    "Ideas/Untitled.md",
-    "Coding/42/4e_Cerlce/Untitled.canvas",
-    "bref.md"
+    "Coding/42/4e_Cerlce/Untitled.canvas"
   ]
 }

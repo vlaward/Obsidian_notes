@@ -1,4 +1,4 @@
-Go back : [[web]]
+Go back : [[Web]]
 
 Uselfull link : [[Appache]]
 
@@ -14,5 +14,5 @@ NGINX is a powerfull tool. It can be use for as a :
 - [[MailProxy|Mail Proxy]]
 
 It has to be configured with an [[NGINX_utils|nginx.conf]] file.
-Nginx is a ligthweight, fast opperating event-driven system, it's better for static or small contents.
-Wheras [[Appache]] is more hevy. It is [[process/thread]] based, got a lot of complexe dynamic modules and configuration.
+Nginx is a lightweight, fast operating event-driven system. It's also *non blocking I/O* which means that you can start a new task without waiting for the last one to finish. It's better for static or small contents.
+Whereas [[Appache]] is more heavy. It is [[process/thread]] based, got a lot of complexe dynamic modules and configuration.

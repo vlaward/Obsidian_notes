@@ -2,7 +2,7 @@ Go back : [[4e_cercle]]
 
 tags : #42school  #42projects #coding #dockers #web
 
-Inception est un projet du tronc commun de l'[[ecole 42]], il demande de setup 3 [[Docker|dockers]] codependant dans un [[vm|machine virtuelle]] :
+Inception est un projet du tronc commun de l'[[ecole 42]], il demande de setup 3 [[Docker|dockers]] codependant dans un [[Machine Virtuelle|machine virtuelle]] :
 -[[NGINX]]
 -[[WordPress]]
 -[[MariaDB]]

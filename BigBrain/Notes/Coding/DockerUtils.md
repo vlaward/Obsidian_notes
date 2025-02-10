@@ -1,6 +1,6 @@
 Go back : [[Docker]]
 
-tags : #coding #dockers 
+tags : #coding #dockers #web 
 
 Pour le moment c'est tres vide mais ca vas tres vite etre tres utile : 
 

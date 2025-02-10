@@ -3,20 +3,35 @@
   "search": "w",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#web  ",
+      "color": {
+        "a": 1,
+        "rgb": 12877438
+      }
+    },
+    {
+      "query": "tag:#coding  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.7078125,
-  "lineSizeMultiplier": 1.52916666666667,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.83541666666667,
+  "lineSizeMultiplier": 0.431770833333333,
   "collapse-forces": false,
   "centerStrength": 0.583333333333333,
-  "repelStrength": 20,
-  "linkStrength": 0.505208333333333,
-  "linkDistance": 157,
-  "scale": 0.444444444444444,
-  "close": false
+  "repelStrength": 11.7708333333333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.6666666666666656,
+  "close": true
 }
