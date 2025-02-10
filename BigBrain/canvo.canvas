@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"d374ca68edd3a4c8","x":-125,"y":-30,"width":250,"height":70,"color":"4","type":"text","text":"je ne sais pas ce que je fait [[this is a test]]\n"},
-		{"id":"fa2422cbe2d50c1a","x":-374,"y":-604,"width":400,"height":400,"color":"#6d4a4a","type":"file","file":"this is a test.md"}
-	],
-	"edges":[
-		{"id":"043be04b18ba834f","fromNode":"d374ca68edd3a4c8","fromSide":"top","toNode":"fa2422cbe2d50c1a","toSide":"bottom"}
-	]
-}

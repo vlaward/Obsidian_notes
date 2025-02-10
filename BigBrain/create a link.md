@@ -1,1 +1,0 @@
-[[canvo.canvas|canvo]] [[bref]] 

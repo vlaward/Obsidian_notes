@@ -1,4 +1,6 @@
 {
   "vimMode": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
